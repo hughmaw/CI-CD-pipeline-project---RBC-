@@ -1,6 +1,23 @@
-.internal-box {
+.current-account-box {
     width: 200px;
     height: 100px;
     background-color: lightblue;
+    border-radius: 20px;
     margin-top: 20px;
+
 }
+
+.add-account-box {
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    border-radius: 20px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    cursor: pointer;
+
+}
+
