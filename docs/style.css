@@ -1,8 +1,9 @@
 .current-account-box {
     width: 200px;
     height: 100px;
-    background-color: lightblue;
+    background-color: white;
     border-radius: 20px;
+    border-color: black;
     margin-top: 20px;
 
 }
@@ -10,8 +11,9 @@
 .add-account-box {
     width: 100px;
     height: 100px;
-    background-color: lightblue;
+    background-color: white;
     border-radius: 20px;
+    border-color: black;
     margin-top: 20px;
     display: flex;
     align-items: center;
